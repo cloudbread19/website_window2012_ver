@@ -1,0 +1,4 @@
+PHPInidir "C:/php-8.0.11-Win32-vs16-x64"
+LoadModule php_module "C:/php-8.0.11-Win32-vs16-x64/php8apache2_4.dll"
+AddHandler application/x-httpd-php .php
+AddType application/x-httpd-php .html .php
